@@ -2,19 +2,19 @@
 
 exports[`T component is displaying 1`] = `
 <DocumentFragment>
-  Welcome to Darkwire v2.0
+  Welcome to la Chatroom
 </DocumentFragment>
 `;
 
 exports[`T component is displaying 2`] = `
 <DocumentFragment>
-  Bienvenue sur Darkwire v2.0
+  Bienvenue sur la Chatroom
 </DocumentFragment>
 `;
 
 exports[`T component is displaying 3`] = `
 <DocumentFragment>
-  Welcome to Darkwire v2.0
+  Welcome to la Chatroom
 </DocumentFragment>
 `;
 
