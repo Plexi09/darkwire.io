@@ -2,7 +2,7 @@
   "newRoomButton": "Nouveau Salon",
   "lockedRoom": "{username} a verrouillé le salon",
   "unlockedRoom": "{username} a déverrouillé le salon",
-  "agreement": "En utilisant Darkwire, vous acceptez notre Politique d'Utilisation et nos Conditions d'Utilisation",
+  "agreement": "Bienvenu sur la Chatroom ! Ecrivez /nick <nom> pour changer votre nom :D",
   "typePlaceholder": "Écrivez ici",
   "aboutButton": "À propos",
   "settingsButton": "Paramètres",
