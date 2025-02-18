@@ -7,7 +7,7 @@ exports[`Settings component > should display 1`] = `
   >
     <section>
       <h4>
-        New message notification
+        Notification de message
       </h4>
       <form>
         <div
@@ -23,7 +23,7 @@ exports[`Settings component > should display 1`] = `
               id="sound-control"
               type="checkbox"
             />
-            Sound
+            Son
           </label>
         </div>
         <div
@@ -39,7 +39,7 @@ exports[`Settings component > should display 1`] = `
               id="notif-control"
               type="checkbox"
             />
-            Desktop Notification
+            Notification sur le bureau
           </label>
         </div>
         <div
@@ -68,108 +68,18 @@ exports[`Settings component > should display 1`] = `
       </h4>
     </section>
     <section>
-      <h4
-        class="mb-3"
-      >
-        Language
-      </h4>
-      <p>
-        <a
-          href="https://github.com/darkwire/darkwire.io/blob/master/client/README.md#translations"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          Help us translate Darkwire!
-        </a>
-      </p>
-      <div
-        class="form-group"
-      >
-        <select
-          class="form-control"
-        >
-          <option
-            value="en"
-          >
-            English
-          </option>
-          <option
-            value="fr"
-          >
-            Français
-          </option>
-          <option
-            value="oc"
-          >
-            Occitan
-          </option>
-          <option
-            value="de"
-          >
-            Deutsch
-          </option>
-          <option
-            value="esAR"
-          >
-            Español (Argentina)
-          </option>
-          <option
-            value="nl"
-          >
-            Nederlands
-          </option>
-          <option
-            value="it"
-          >
-            Italiano
-          </option>
-          <option
-            value="ru"
-          >
-            Русский
-          </option>
-          <option
-            value="pl"
-          >
-            Polish
-          </option>
-          <option
-            value="zhCN"
-          >
-            中文
-          </option>
-          <option
-            value="ja"
-          >
-            日本語
-          </option>
-          <option
-            value="tr"
-          >
-            Türkçe
-          </option>
-          <option
-            value="ko"
-          >
-            한국어
-          </option>
-        </select>
-      </div>
-    </section>
-    <section>
       <h4>
-        Room Ownership
+        Propritété du salon
       </h4>
       <p>
-        The person who created the room is the room owner and has special privileges, like the ability to lock and unlock the room. If the owner leaves the room, the second person to join assumes ownership. If they leave, the third person becomes owner, and so on. The room owner has a star icon next to their username in the participants dropdown.
-      </p>
+        La personne qui a créé le salon est le propriétaire du salon et dispose de privilèges spéciaux, comme la possibilité de verrouiller et de déverrouiller le salon. Si le propriétaire quitte le salon, la deuxième personne qui le rejoint en devient propriétaire. Si elle part, la troisième personne devient propriétaire, et ainsi de suite. Le propriétaire de la salle a une icône en forme d'étoile à côté de son nom d'utilisateur dans le menu déroulant des participants.      </p>
     </section>
     <section>
       <h4>
         Lock Room
       </h4>
       <p>
-        If you are the room owner, you can lock and unlock the room by clicking the lock icon in the nav bar. When a room is locked, no other participants will be able to join.
+        Si vous êtes le propriétaire du salon, vous pouvez verrouiller et déverrouiller le salon en cliquant sur l'icône de verrouillage dans la barre de navigation. Lorsqu'un salon est verrouillée, aucun autre participant ne peut la rejoindre.
       </p>
     </section>
     <section>
@@ -278,95 +188,6 @@ exports[`Settings component > should display 2`] = `
       >
         This room
       </h4>
-    </section>
-    <section>
-      <h4
-        class="mb-3"
-      >
-        Language
-      </h4>
-      <p>
-        <a
-          href="https://github.com/darkwire/darkwire.io/blob/master/client/README.md#translations"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          Help us translate Darkwire!
-        </a>
-      </p>
-      <div
-        class="form-group"
-      >
-        <select
-          class="form-control"
-        >
-          <option
-            value="en"
-          >
-            English
-          </option>
-          <option
-            value="fr"
-          >
-            Français
-          </option>
-          <option
-            value="oc"
-          >
-            Occitan
-          </option>
-          <option
-            value="de"
-          >
-            Deutsch
-          </option>
-          <option
-            value="esAR"
-          >
-            Español (Argentina)
-          </option>
-          <option
-            value="nl"
-          >
-            Nederlands
-          </option>
-          <option
-            value="it"
-          >
-            Italiano
-          </option>
-          <option
-            value="ru"
-          >
-            Русский
-          </option>
-          <option
-            value="pl"
-          >
-            Polish
-          </option>
-          <option
-            value="zhCN"
-          >
-            中文
-          </option>
-          <option
-            value="ja"
-          >
-            日本語
-          </option>
-          <option
-            value="tr"
-          >
-            Türkçe
-          </option>
-          <option
-            value="ko"
-          >
-            한국어
-          </option>
-        </select>
-      </div>
     </section>
     <section>
       <h4>
